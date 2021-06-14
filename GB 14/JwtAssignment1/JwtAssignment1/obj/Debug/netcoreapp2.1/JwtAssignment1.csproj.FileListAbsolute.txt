@@ -1,0 +1,31 @@
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\JwtAssignment1.deps.json
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\JwtAssignment1.runtimeconfig.json
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\JwtAssignment1.runtimeconfig.dev.json
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\JwtAssignment1.dll
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.csprojAssemblyReference.cache
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.RazorAssemblyInfo.cache
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.RazorAssemblyInfo.cs
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.AssemblyInfoInputs.cache
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.AssemblyInfo.cs
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.RazorTargetAssemblyInfo.cache
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\JwtAssignment1.pdb
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.dll
+C:\Users\priyam.sharma\source\repos\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.pdb
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\JwtAssignment1.deps.json
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\JwtAssignment1.runtimeconfig.json
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\JwtAssignment1.runtimeconfig.dev.json
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\JwtAssignment1.dll
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\bin\Debug\netcoreapp2.1\JwtAssignment1.pdb
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.csprojAssemblyReference.cache
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.AssemblyInfoInputs.cache
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.AssemblyInfo.cs
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.RazorAssemblyInfo.cache
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.RazorAssemblyInfo.cs
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.RazorTargetAssemblyInfo.cache
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.dll
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.pdb
+C:\Users\K\Desktop\Resume Proj\JwtAssignment1\JwtAssignment1\obj\Debug\netcoreapp2.1\JwtAssignment1.genruntimeconfig.cache
